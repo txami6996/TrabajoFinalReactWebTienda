@@ -1,0 +1,22 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(248, 237, 237);
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  table {
+    border-collapse: none;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    
+  }
+  .copyR{
+    text-align: center;
+    
+  }
